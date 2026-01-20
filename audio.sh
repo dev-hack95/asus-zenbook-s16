@@ -2,6 +2,8 @@
 
 # CS35L56 Firmware Installer for Asus Zenbook S16
 # Fixes missing left speaker (AMP3 and AMP4) firmware
+# Version specifc: ASUS Zenbook S 16 UM5606KA_UM5606KA 1.0
+# Warning: Check your audio hardware first
 
 set -e
 
